@@ -1,5 +1,5 @@
-# 💫 About Me: 🔭 I’m currently working on developing skills<br>
-🌱 I’m currently learning: HTML , Python , C++
+# 🔥 Hey! I'am Soumyadeep Dey ⚡
+<br>🌱 I’m currently learning: HTML , Python , C++
 <br>💬 Ask me about: Coding Problems
 <br>⚡ Fun fact  : "I am talkative" 
 ## 🌐 Socials: 
