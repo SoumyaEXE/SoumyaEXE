@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SoumyaEXE&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=SoumyaEXE&theme=algolia&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaEXE&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyaEXE&show_icons=true&theme=algolia)
 ### ✍️ Random Dev Quote: 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 ## 🎧 Currently Listening : 
 ![I'm Listening Now](https://spotify-github-profile.vercel.app/api/view.svg?uid=31qhaph7hi7ktvz5svukclvefggu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qhaph7hi7ktvz5svukclvefggu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 ## 💰 You can help me by Donating: 
