@@ -1,4 +1,4 @@
-# 🔥 Hey! I'am Soumya! ⚡
+# 🔥 Hey! I'am Soumya
 <br>🌱 I’m currently learning: HTML , Python , C++
 <br>💬 Ask me about: Coding Problems
 <br>⚡ Fun fact  : "I am talkative" 
