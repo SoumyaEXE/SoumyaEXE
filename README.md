@@ -27,7 +27,7 @@
 
 ## 💰 You can help me by Donating: 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=b/ko-fi.com/SoumyadeepDey)
-## 👀 Profile Views :uy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SoumyadeepDey)  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https:/
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=SoumyaEXE&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
