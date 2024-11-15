@@ -40,6 +40,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
+# 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+![](https://github-trophies.vercel.app/?username=SoumyaEXE&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 # 📈 𝗦𝘁𝗮𝘁𝘀
 
 [![Soumya](https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level-alternate&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card) 
