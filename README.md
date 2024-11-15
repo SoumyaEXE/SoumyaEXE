@@ -1,4 +1,5 @@
-<div align="center"> <img src="res/image.png"> </div>
+<div align="center"> <img src="res/image (1).png"> </div>
+
 <br> ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
