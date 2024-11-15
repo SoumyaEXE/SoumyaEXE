@@ -1,8 +1,7 @@
 <div align="center"> <img src="res/image (1).png"> </div>
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
-<div align="center"> <br> ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iSoumyadeepDey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0umy4_Xd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iSoumyadeepDey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iSoumyadeepDey) </div>
+<div align="center"> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iSoumyadeepDey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0umy4_Xd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iSoumyadeepDey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iSoumyadeepDey) </div>
 
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
