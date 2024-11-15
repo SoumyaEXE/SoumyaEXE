@@ -42,7 +42,7 @@
 
 # 📈 𝗦𝘁𝗮𝘁𝘀
 
-![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=monokai) ![SoumyaEXE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaEXE&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+[![Soumya](https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level-alternate&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card) 
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
