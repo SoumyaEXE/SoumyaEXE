@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0" alt="game-off-gif">
 </div>
-
+<br>
 <div style="text-align: center">
   <br>
   <a href="https://facebook.com/iSoumyadeepDey">
