@@ -1,5 +1,4 @@
-<a href="https://ibb.co/YPgx0HB"><img src="res/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'> <a/>
-
+<div align="center"> <img src="res/image.png"> </div>
 <br>⭐ 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 <br>💻 𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒘𝒆𝒃 𝒅𝒆𝒗 & 𝒕𝒆𝒄𝒉 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕. 
 <br>⚡ 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
