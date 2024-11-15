@@ -2,7 +2,22 @@
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 <br> ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
-<br> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iSoumyadeepDey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0umy4_Xd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iSoumyadeepDey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iSoumyadeepDey)
+
+<div style="text-align: center;">
+  <br>
+  <a href="https://facebook.com/iSoumyadeepDey">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/s0umy4_Xd">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://reddit.com/user/iSoumyadeepDey">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://x.com/iSoumyadeepDey">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+</div>
 
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
