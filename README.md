@@ -81,7 +81,7 @@
   </a>
 </div>
 
-# ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗤𝘂𝗼𝘁𝗲 :
+# ✍️ 𝗤𝘂𝗼𝘁𝗲 :
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Quote">
 </div>
