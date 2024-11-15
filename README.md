@@ -57,7 +57,7 @@
 
 # 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
 
-[![](https://visitcount.itsvg.in/api?id=SoumyaEXE&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=soumyaexe&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with ❤ by Soumya -->
