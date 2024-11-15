@@ -3,12 +3,13 @@
 </div>
 <br>
 
-# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-
+**`𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧`**
 <div align="center">
   <img src="https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0" alt="game-off-gif">
 </div>
 <br>
+
+# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 <div style="text-align: center">
   <br>
   <a href="https://facebook.com/iSoumyadeepDey">
