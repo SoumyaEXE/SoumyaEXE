@@ -55,9 +55,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai) 
 
-# 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
-
-[![](https://visitcount.itsvg.in/api?id=soumyaexe&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
-
-
 <!-- Proudly created with ❤ by Soumya -->
