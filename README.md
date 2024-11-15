@@ -40,7 +40,7 @@
 
 ## 📈 𝗦𝘁𝗮𝘁𝘀
 
-![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=github)
+![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=githubdark)
 
 ## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
