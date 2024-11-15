@@ -2,7 +2,7 @@
   <img src="res/image (1).png" alt="image">
 </div>
 
-# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
+# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 <br>
 <div align="center">
   <img src="https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0" alt="game-off-gif">
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-# 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+# 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
@@ -58,26 +58,26 @@
   <img src="https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff" alt="Render">
 </div>
 
-# 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+# 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=SoumyaEXE&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
-# 📈 𝗦𝘁𝗮𝘁𝘀
+# 📈 𝗦𝘁𝗮𝘁𝘀 :
 <div align="center">
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level-alternate&theme=monokai&preferLogin=false" alt="Soumya Stats">
   </a>
 </div>
 
-# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true" alt="GitHub Activity">
   </a>
 </div>
 
-# ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗤𝘂𝗼𝘁𝗲
+# ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗤𝘂𝗼𝘁𝗲 :
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Quote">
 </div>
