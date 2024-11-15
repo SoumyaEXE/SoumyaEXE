@@ -46,7 +46,7 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲
+### ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗤𝘂𝗼𝘁𝗲
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
