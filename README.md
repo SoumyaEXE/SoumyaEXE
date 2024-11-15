@@ -3,7 +3,7 @@
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 <br> ![game-off-gif](https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0)
 
-<div style="text-align: center;">
+<div style="text-align: center">
   <br>
   <a href="https://facebook.com/iSoumyadeepDey">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
