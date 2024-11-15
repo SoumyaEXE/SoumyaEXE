@@ -1,7 +1,6 @@
 <div align="center"> 
   <img src="res/image (1).png" alt="image">
 </div>
-
 <br>
 <div align="center">
   <img src="https://github.com/JSjulio/JSjulio/assets/116856413/13522243-2b31-40c7-a1f5-0b5967ba8ce0" alt="game-off-gif">
@@ -9,7 +8,6 @@
 <br>
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-
 <div style="text-align: center">
   <br>
   <a href="https://facebook.com/iSoumyadeepDey">
