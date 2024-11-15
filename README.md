@@ -48,7 +48,7 @@
 
 ### ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
 ## 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
 
