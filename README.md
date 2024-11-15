@@ -42,15 +42,15 @@
 
 # 📈 𝗦𝘁𝗮𝘁𝘀
 
-![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=monokai)
+![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=monokai) ![SoumyaEXE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaEXE&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 # ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗤𝘂𝗼𝘁𝗲
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai) 
 
 # 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
 
