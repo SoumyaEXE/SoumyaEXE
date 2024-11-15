@@ -3,10 +3,10 @@
 <br>💬:computer: 𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒘𝒆𝒃 𝒅𝒆𝒗 & 𝒕𝒆𝒄𝒉 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕. 
 <br>⚡ 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-## 🌐 Socials
+## 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iSoumyadeepDey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s0umy4_Xd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iSoumyadeepDey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iSoumyadeepDey) 
 
-## 💻 Tech Stack
+## 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -38,15 +38,19 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-## 📊 GitHub Activity
+## 📈 𝗦𝘁𝗮𝘁𝘀
+
+![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=soumyaexe&show_icons=true&theme=dracula)
+
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
+### ✍️ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-## 👀 Profile Views
+## 👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀
 
 [![](https://visitcount.itsvg.in/api?id=SoumyaEXE&icon=2&color=0)](https://visitcount.itsvg.in)
 
