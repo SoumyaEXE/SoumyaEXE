@@ -70,14 +70,14 @@
 
 # 📈 𝗦𝘁𝗮𝘁𝘀 :
 <div align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level-alternate&theme=monokai&preferLogin=false" alt="Soumya Stats">
+  <a href="https://github.com/SoumyaEXE">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level&theme=monokai&preferLogin=false" alt="Soumya Stats">
   </a>
 </div>
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/SoumyaEXE">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaEXE&bg_color=000000&color=fcfcfc&line=11ff00&point=fcfdfc&area=true&hide_border=true" alt="GitHub Activity">
   </a>
 </div>
