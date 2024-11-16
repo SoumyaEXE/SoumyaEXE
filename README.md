@@ -1,4 +1,4 @@
-![Header]()
+![Soumya's Banner](https://github.com/SoumyaEXE/SoumyaEXE/blob/main/res/image%20(1).png?raw=true)
 
 <div align="center">
   <strong><h2>🌠 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 ✨</h2></strong>
