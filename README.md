@@ -13,7 +13,7 @@
 <br>
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-<div style="text-align: center">
+<div align="center">
   <br>
   <a href="https://facebook.com/iSoumyadeepDey">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
