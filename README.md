@@ -85,7 +85,7 @@
   </a>
 </div>
 
-# 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
+# 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 :
 
 <div align="center">
 <a href="https://github.com/SoumyaEXE">
