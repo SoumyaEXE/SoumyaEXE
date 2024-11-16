@@ -82,6 +82,14 @@
   </a>
 </div>
 
+# 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
+
+<div align="center">
+<a href="https://github.com/SoumyaEXE">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qhaph7hi7ktvz5svukclvefggu" alt="Data Card for Spotify">
+</a>
+</div>
+  
 # ✍️ 𝗤𝘂𝗼𝘁𝗲 :
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Quote">
