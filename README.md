@@ -15,17 +15,14 @@
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 <div align="center">
   <br>
-  <a href="https://facebook.com/iSoumyadeepDey">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
   <a href="https://instagram.com/s0umy4_Xd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://reddit.com/user/iSoumyadeepDey">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit">
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+  </a> &nbsp;
+    <a href="https://dev.to/SoumyadeepDey">
+    <img src="https://skillicons.dev/icons?i=devto" alt="devto">
+  </a> &nbsp;
   <a href="https://x.com/iSoumyadeepDey">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X">
   </a>
 </div>
 
