@@ -81,7 +81,7 @@
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
 <div align="center">
   <a href="https://github.com/SoumyaEXE">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyaexe&bg_color=2d2a2e&color=a6e22e&line=f92672&point=fd971f&area=true&hide_border=true" alt="GitHub Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyaexe&bg_color=2d2a2e&color=ffffff&line=f92672&point=fd971f&area=true&hide_border=true" alt="GitHub Activity">
   </a>
 </div>
 
