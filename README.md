@@ -1,4 +1,4 @@
-![Header](./res/image (1).png)
+![Header]()
 
 <div align="center">
   <strong><h2>🌠 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 ✨</h2></strong>
