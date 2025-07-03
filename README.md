@@ -36,8 +36,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" alt="React.js">
-  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs" alt="Next.js">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
