@@ -35,11 +35,7 @@
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" alt="React.js">
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs" alt="Next.js">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -49,9 +45,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite">
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab">
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" alt="VS Code">
@@ -60,10 +53,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" alt="Netlify">
   <img src="https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000" alt="Vercel">
-  <img src="https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway" alt="Railway">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff" alt="Render">
 </div>
 
 # 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
