@@ -55,11 +55,11 @@
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 <div align="center">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  <img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  <img src="https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  <img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
 </div>
 
 # ✍️ 𝗤𝘂𝗼𝘁𝗲 :
