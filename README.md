@@ -12,26 +12,6 @@
 </div>
 <br>
 
-# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-<div align="center">
-  <br>
-  <a href="https://facebook.com/iSOumyadeepDey">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/s0umy4_Xd">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-    <a href="https://dev.to/SoumyadeepDey">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="devto">
-  </a>
-   <a href="https://reddit.com/iSoumyadeepDey">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="reddit">
-  </a>
-  <a href="https://x.com/iSoumyadeepDey">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X">
-  </a>
-</div>
-
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
@@ -74,12 +54,14 @@
 </div>
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-[<img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">](https://dev.to/SoumyadeepDey)
+<div align="center">
+[<img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white">](https://dev.to/SoumyadeepDey)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/9n9vc)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ISoumyadeepDey/)
 [<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/16593472/subhampreet-mohanty?tab=profile)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://isoumya.vercel.app/)
-  
+</div>
+
 # ✍️ 𝗤𝘂𝗼𝘁𝗲 :
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Quote">
