@@ -73,13 +73,12 @@
   </a>
 </div>
 
-# 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 :
-
-<div align="center">
-<a href="https://github.com/SoumyaEXE">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qhaph7hi7ktvz5svukclvefggu" alt="Data Card for Spotify">
-</a>
-</div>
+# 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
+[<img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">](https://dev.to/SoumyadeepDey)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/9n9vc)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ISoumyadeepDey/)
+[<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">](https://stackoverflow.com/users/16593472/subhampreet-mohanty?tab=profile)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://isoumya.vercel.app/)
   
 # ✍️ 𝗤𝘂𝗼𝘁𝗲 :
 <div align="center">
