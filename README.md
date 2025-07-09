@@ -54,23 +54,23 @@
 </div>
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
-<p align="center">
-  <a href="https://dev.to/SoumyadeepDey" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to" />
+<div align="center">
+  <a href="https://dev.to/SoumyadeepDey">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://www.instagram.com/9n9vc" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/9n9vc">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/ISoumyadeepDey/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/ISoumyadeepDey/">
+    <img src="https://img.shields.io/badge/facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://stackoverflow.com">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://isoumya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="https://isoumya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
 
 
 # ✍️ 𝗤𝘂𝗼𝘁𝗲 :
