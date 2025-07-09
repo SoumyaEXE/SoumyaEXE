@@ -15,11 +15,11 @@
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 :
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  <img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
 </div>
 
 <div align="center">
