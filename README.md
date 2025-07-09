@@ -1,6 +1,6 @@
 <div align="center">
   
-![Soumya's Banner](https://github.com/SoumyaEXE/SoumyaEXE/blob/main/res/image%20(1).png?raw=true)
+![Soumya's Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 </div>
 
