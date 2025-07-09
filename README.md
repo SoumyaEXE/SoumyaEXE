@@ -51,11 +51,12 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
 </div>
 
-# # 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 :
+# 🎧 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 :
 
 <div align="center">
 <a href="https://github.com/SoumyaEXE">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31qhaph7hi7ktvz5svukclvefggu&hide_title=1&limit=3" alt="Data Card for Spotify">
 </a>
 
+###  𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 ⭐ 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
 <!-- Proudly created with ❤ by Soumya -->
