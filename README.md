@@ -28,19 +28,16 @@
   <img src="https://github-trophies.vercel.app/?username=SoumyaEXE&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
-# 📈 𝗦𝘁𝗮𝘁𝘀 :
-<div align="center">
-  <a href="https://github.com/SoumyaEXE">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Soumyaexe?cardType=level&theme=monokai&preferLogin=false" alt="Soumya Stats">
-  </a>
-</div>
+# 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 :
 
-# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 :
-<div align="center">
-  <a href="https://github.com/SoumyaEXE">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyaexe&bg_color=2d2a2e&color=ffffff&line=f92672&point=fd971f&area=true&hide_border=true" alt="GitHub Activity">
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyaEXE&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumyaEXE&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumyaEXE&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoumyaEXE&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoumyaEXE&theme=monokai&utcOffset=8" />
+</p>
+
 
 # 🌐 𝗦𝗼𝗰𝗶𝗮𝗹𝘀 :
 
