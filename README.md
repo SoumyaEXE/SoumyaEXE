@@ -128,8 +128,3 @@ soumya@github:~$ exit
 └─────────────────────────────────────────────────────────┘
 ```
 <!--END:footer-->
-
-<div align="center">
-  <sub>no vercel widgets, no rate limits, no broken images.<br>
-  everything above is generated in-repo by a node script on a cron.</sub>
-</div>
