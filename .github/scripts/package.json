@@ -1,0 +1,16 @@
+{
+  "name": "profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Regenerates the ASCII stat blocks in the profile README.",
+  "scripts": {
+    "update": "node update_profile.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "chartscii": "^4.0.3"
+  }
+}
