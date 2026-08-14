@@ -35,7 +35,7 @@ soumya@github:~$ ./stats --refresh
 <!--START:stats-->
 ```
 ┌─ stats ─────────────────────────────────────────────────┐
-│ commits (1y)    1.1k  │  merged PRs        28           │
+│ commits (1y)    1.2k  │  merged PRs        28           │
 │ contributions   1.3k  │  issues            20           │
 │ stars earned     107  │  forks             26           │
 │ repos              8  │  code reviews       3           │
@@ -122,7 +122,7 @@ soumya@github:~$ exit
 <!--START:footer-->
 ```
 ┌─ build info ────────────────────────────────────────────┐
-│ generated    2026-08-14 13:17 IST                       │
+│ generated    2026-08-14 19:09 IST                       │
 │ by           .github/scripts/update_profile.mjs         │
 │ cadence      every 6 hours, via github actions cron     │
 └─────────────────────────────────────────────────────────┘
