@@ -37,10 +37,10 @@ soumya@github:~$ ./stats --refresh
 ┌─ stats ─────────────────────────────────────────────────┐
 │ commits (1y)    1.2k  │  merged PRs        28           │
 │ contributions   1.3k  │  issues            20           │
-│ stars earned     107  │  forks             26           │
+│ stars earned     107  │  forks             25           │
 │ repos              8  │  code reviews       3           │
 │ followers         79  │  following          6           │
-│ current streak    5d  │  longest streak   11d           │
+│ current streak    6d  │  longest streak   11d           │
 ├─ meta ──────────────────────────────────────────────────┤
 │ account age    1718d                                    │
 └─────────────────────────────────────────────────────────┘
@@ -122,7 +122,7 @@ soumya@github:~$ exit
 <!--START:footer-->
 ```
 ┌─ build info ────────────────────────────────────────────┐
-│ generated    2026-08-15 00:41 IST                       │
+│ generated    2026-08-15 07:18 IST                       │
 │ by           .github/scripts/update_profile.mjs         │
 │ cadence      every 6 hours, via github actions cron     │
 └─────────────────────────────────────────────────────────┘
