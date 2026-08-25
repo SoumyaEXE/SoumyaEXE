@@ -39,10 +39,10 @@ soumya@github:~$ ./stats --refresh
 │ contributions   1.4k  │  issues            20           │
 │ stars earned     110  │  forks             25           │
 │ repos             10  │  code reviews       3           │
-│ followers         79  │  following          6           │
+│ followers         80  │  following          6           │
 │ current streak    0d  │  longest streak   14d           │
 ├─ meta ──────────────────────────────────────────────────┤
-│ account age    1728d                                    │
+│ account age    1729d                                    │
 └─────────────────────────────────────────────────────────┘
 ```
 <!--END:stats-->
@@ -122,7 +122,7 @@ soumya@github:~$ exit
 <!--START:footer-->
 ```
 ┌─ build info ────────────────────────────────────────────┐
-│ generated    2026-08-25 12:36 IST                       │
+│ generated    2026-08-25 18:39 IST                       │
 │ by           .github/scripts/update_profile.mjs         │
 │ cadence      every 6 hours, via github actions cron     │
 └─────────────────────────────────────────────────────────┘
