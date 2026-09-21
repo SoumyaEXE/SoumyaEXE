@@ -42,7 +42,7 @@ soumya@github:~$ ./stats --refresh
 │ followers         80  │  following          7           │
 │ current streak    8d  │  longest streak   14d           │
 ├─ meta ──────────────────────────────────────────────────┤
-│ account age    1755d                                    │
+│ account age    1756d                                    │
 └─────────────────────────────────────────────────────────┘
 ```
 <!--END:stats-->
@@ -122,7 +122,7 @@ soumya@github:~$ exit
 <!--START:footer-->
 ```
 ┌─ build info ────────────────────────────────────────────┐
-│ generated    2026-09-21 10:20 IST                       │
+│ generated    2026-09-21 18:12 IST                       │
 │ by           .github/scripts/update_profile.mjs         │
 │ cadence      every 6 hours, via github actions cron     │
 └─────────────────────────────────────────────────────────┘
