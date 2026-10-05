@@ -382,7 +382,9 @@ export function renderRepos(d) {
   return box('where the commits went', rows);
 }
 
-const RAMP = '·░▒▓█'; // index 0 is a day with nothing, 1-4 are the quartiles
+// shade glyphs (░▒▓) fall back to a taller font on github and bleed across rows,
+// so the ramp sticks to characters the code font itself carries
+const RAMP = '·:+#█'; // index 0 is a day with nothing, 1-4 are the quartiles
 const HEAT_COLS = 53; // a year is 52 weeks plus the partial one it starts in
 const WEEKDAYS = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
 
