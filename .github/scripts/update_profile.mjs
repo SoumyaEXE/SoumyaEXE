@@ -18,9 +18,8 @@ const TZ_OFFSET = 5.5 * 60 * 60 * 1000; // Asia/Kolkata
 
 const API = 'https://api.github.com/graphql';
 // the canvas is 94 columns: two half panes (42 inner + 4 of border and padding
-// = 46 each) with a 2 column gap, or one full pane (90 inner + 4).
+// = 46 each) with a 2 column gap.
 const HALF = 42;
-const FULL = 90;
 const GAP = 2;
 
 // ──────────────────────────────────────────────────────────── api
@@ -382,89 +381,6 @@ export function renderRepos(d) {
   return box('where the commits went', rows);
 }
 
-// shade glyphs (░▒▓) fall back to a taller font on github and bleed across rows,
-// so the ramp sticks to characters the code font itself carries
-const RAMP = '·:+#█'; // index 0 is a day with nothing, 1-4 are the quartiles
-const HEAT_COLS = 53; // a year is 52 weeks plus the partial one it starts in
-const WEEKDAYS = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
-
-/**
- * calendar dates arrive as plain 'YYYY-MM-DD' strings and are only ever sliced,
- * never fed through Date, so no timezone can nudge a day into its neighbour.
- */
-const prettyDay = (iso) =>
-  `${iso.slice(8, 10)} ${MONTHS[Number(iso.slice(5, 7)) - 1]} ${iso.slice(0, 4)}`;
-
-export function renderHeat(d) {
-  const cal = d.contributionsCollection.contributionCalendar;
-  // a 365 day window that opens on a saturday spills into 54 weeks; keep the
-  // newest 53 so the grid width is fixed and the summary describes what is drawn
-  const weeks = cal.weeks.filter((w) => w.contributionDays.length).slice(-HEAT_COLS);
-  const days = weeks.flatMap((w) => w.contributionDays);
-  const count = (list) => list.reduce((a, x) => a + x.contributionCount, 0);
-
-  // quartiles of the non-zero days. bucketing against the max instead would let
-  // a single 80-commit day push every ordinary day down into the faintest shade.
-  const busy = days.map((x) => x.contributionCount).filter((n) => n > 0)
-    .sort((a, b) => a - b);
-  const cuts = [0.25, 0.5, 0.75].map((q) => busy[Math.floor(q * (busy.length - 1))]);
-  const shade = (n) => (n > 0 ? RAMP[1 + cuts.filter((c) => n > c).length] : RAMP[0]);
-
-  // one column per week, one row per weekday. the first and last weeks are
-  // usually partial, and the days they lack stay blank instead of reading as zero.
-  const grid = WEEKDAYS.map(() => new Array(HEAT_COLS).fill(' '));
-  weeks.forEach((w, col) => {
-    for (const day of w.contributionDays) {
-      grid[day.weekday][col] = shade(day.contributionCount);
-    }
-  });
-
-  // a month is labelled over the first week that begins inside it. the opening
-  // column is usually the tail end of a month, so it only gets a label when the
-  // next one is far enough away not to collide with it.
-  const months = new Array(HEAT_COLS).fill(' ');
-  const monthOf = (w) => Number(w.contributionDays[0].date.slice(5, 7)) - 1;
-  let starts = weeks.map((w, i) => i)
-    .filter((i) => i === 0 || monthOf(weeks[i]) !== monthOf(weeks[i - 1]));
-  if (starts.length > 1 && starts[1] - starts[0] < 4) starts = starts.slice(1);
-  let free = 0; // first column the next label is allowed to start in
-  for (const col of starts) {
-    if (col < free || col + 3 > HEAT_COLS) continue;
-    [...MONTHS[monthOf(weeks[col])]].forEach((ch, k) => { months[col + k] = ch; });
-    free = col + 4;
-  }
-
-  const sum = count(days);
-  const best = days.reduce((a, x) => (x.contributionCount > a.contributionCount ? x : a),
-    { contributionCount: 0 });
-  const weekSums = weeks.map((w) => count(w.contributionDays));
-  const bestWeek = weekSums.indexOf(Math.max(0, ...weekSums));
-  const perWeekday = WEEKDAYS.map((_, i) => count(days.filter((x) => x.weekday === i)));
-  const topWeekday = perWeekday.indexOf(Math.max(...perWeekday));
-
-  // the total comes from the api so that it agrees with the stats box
-  const total = cal.totalContributions ?? sum;
-  const side = [
-    ['total', total.toLocaleString('en-US')],
-    ['active', `${busy.length} of ${plural(days.length, 'day')}`],
-    ['daily avg', `${(days.length ? sum / days.length : 0).toFixed(1)} per day`],
-    ['busiest', sum ? `${prettyDay(best.date)} · ${human(best.contributionCount)}` : 'none yet'],
-    ['best week', sum
-      ? `${prettyDay(weeks[bestWeek].contributionDays[0].date)} · ${human(weekSums[bestWeek])}`
-      : 'none yet'],
-    ['weekday', sum
-      ? `${WEEKDAYS[topWeekday]} · ${((perWeekday[topWeekday] / sum) * 100).toFixed(0)}% of all`
-      : 'none yet'],
-  ].map(([k, v]) => `${pad(k, 10)}${v}`); // 10 + at most 19 of value
-  side.push('', `less ${[...RAMP].join(' ')} more`);
-
-  // 3 label + 1 space + 53 grid = 57, ' │ ' = 3, which leaves 30 for the summary
-  const left = [months, ...grid].map((cells, i) =>
-    `${pad(i ? WEEKDAYS[i - 1] : '', 3)} ${cells.join('')}`);
-  const rows = left.map((l, i) => `${l} │ ${side[i] ?? ''}`);
-  return box('a year of contributions', rows, FULL);
-}
-
 // ────────────────────────────────────────────────────────── write
 
 export function splice(text, key, payload) {
@@ -489,7 +405,6 @@ async function main() {
   for (const [key, fn] of [
     ['top', (x) => sideBySide(renderStats(x), renderRepos(x))],
     ['code', (x) => sideBySide(renderClock(x), renderLangs(x))],
-    ['heat', renderHeat],
   ]) {
     try {
       text = splice(text, key, fn(d));
