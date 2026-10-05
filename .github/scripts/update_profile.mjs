@@ -17,9 +17,10 @@ const README = process.env.README_PATH ?? 'README.md';
 const TZ_OFFSET = 5.5 * 60 * 60 * 1000; // Asia/Kolkata
 
 const API = 'https://api.github.com/graphql';
-// the canvas is 94 columns: two half panes (42 inner + 4 of border and padding
-// = 46 each) with a 2 column gap.
-const HALF = 42;
+// the canvas is 110 columns: two half panes (50 inner + 4 of border and padding
+// = 54 each) with a 2 column gap. github sets code blocks at 12px in an 814px
+// column, so 110 is about the most that fits without a scrollbar on a mac.
+const HALF = 50;
 const GAP = 2;
 
 // ──────────────────────────────────────────────────────────── api
@@ -207,7 +208,7 @@ const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun',
   'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
 
 // ──────────────────────────────────────────────────────── renders
-// every half pane row is budgeted to exactly 42 columns. box() slices an
+// every half pane row is budgeted to exactly 50 columns. box() slices an
 // overlong row without complaint, so when a width changes, redo the sum.
 
 export function renderStats(d) {
@@ -221,12 +222,11 @@ export function renderStats(d) {
   const joined = ist(created);
   const age = Math.floor((Date.now() - created.getTime()) / 864e5);
 
-  // 14 label + 5 value, ' │ ', 14 label + 6 value: 19 + 3 + 20 = 42.
-  // the left value column is the one that gives up a character, and human()
-  // never returns more than 5, so a label and its number cannot touch.
+  // 16 label + 7 value, ' │ ', 16 label + 8 value: 23 + 3 + 24 = 50.
+  // human() never returns more than 5, so a label and its number cannot touch.
   // `bw` moves the split on the right, for a short label with a long value.
-  const row = ([a, av, b, bv], bw = 14) =>
-    `${pad(a, 14)}${av.padStart(5)} │ ${pad(b, bw)}${bv.padStart(20 - bw)}`;
+  const row = ([a, av, b, bv], bw = 16) =>
+    `${pad(a, 16)}${av.padStart(7)} │ ${pad(b, bw)}${bv.padStart(24 - bw)}`;
 
   const pairs = [
     ['commits (1y)', human(commits), 'merged PRs', human(d.pullRequests.totalCount)],
@@ -299,8 +299,8 @@ export function renderClock(d) {
   const byDay = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
     .map((nm, i) => [nm, (wdays[i] / wtotal) * 100]);
 
-  // 13 label + 2 axis + 20 bar + 7 for ' 100.0%' = 42
-  const opts = { width: 20, labelWidth: 13 };
+  // 13 label + 2 axis + 28 bar + 7 for ' 100.0%' = 50
+  const opts = { width: 28, labelWidth: 13 };
   const withPct = (points) => {
     const lines = bars(points, opts);
     return lines.map((line, i) =>
@@ -331,8 +331,10 @@ export function renderLangs(d) {
 
   const total = [...sizes.values()].reduce((a, b) => a + b, 0) || 1;
   const ranked = [...sizes].sort((a, b) => b[1] - a[1]);
-  const top = ranked.slice(0, 7);
-  const rest = ranked.slice(7);
+  // 12 rows matches the clock pane beside it (4 buckets, a divider, 7 weekdays),
+  // so neither box has to be stretched with blank rows
+  const top = ranked.length > 12 ? ranked.slice(0, 11) : ranked;
+  const rest = ranked.slice(top.length);
 
   const points = top.map(([name, size]) => [name, (size / total) * 100]);
   const tail = top.map(([, size]) => humanBytes(size));
@@ -342,8 +344,8 @@ export function renderLangs(d) {
     tail.push(humanBytes(other));
   }
 
-  // 11 label + 2 axis + 15 bar + 7 for ' 100.0%' + 7 for the byte count = 42
-  const lines = bars(points, { width: 15, labelWidth: 11 });
+  // 14 label + 2 axis + 20 bar + 7 for ' 100.0%' + 7 for the byte count = 50
+  const lines = bars(points, { width: 20, labelWidth: 14 });
   // last line is chartscii's baseline; the value columns only apply to bars
   const rows = lines.map((line, i) =>
     i < points.length
@@ -351,7 +353,7 @@ export function renderLangs(d) {
       : line);
 
   const [lead, size] = top[0];
-  // the name is capped at 16 ("jupyter notebook") so the line cannot pass 42
+  // the name is capped at 16 ("jupyter notebook") so the line cannot pass 50
   rows.push(['sep', 'verdict'],
     `${((size / total) * 100).toFixed(0)}% ${lead.toLowerCase().slice(0, 16)} · ` +
     `${plural(sizes.size, 'lang')} · ${humanBytes(total)}`);
@@ -368,9 +370,9 @@ export function renderRepos(d) {
   if (!repos.length) return box('where the commits went', ['no commits found']);
 
   const top = repos.slice(0, 6);
-  // 16 label + 2 axis + 18 bar + 6 for the count = 42. repo names run long,
+  // 20 label + 2 axis + 22 bar + 6 for the count = 50. repo names run long,
   // so the label gets the columns that a percentage takes in the other panes.
-  const lines = bars(top, { width: 18, labelWidth: 16, max: top[0][1] });
+  const lines = bars(top, { width: 22, labelWidth: 20, max: top[0][1] });
   const rows = lines.map((line, i) =>
     i < top.length ? `${line} ${String(top[i][1]).padStart(5)}` : line);
 

@@ -1,18 +1,20 @@
+<div align="center">
+
 ```
-┌─ soumya@github: ~ ─────────────────────────────────────────────────────────────────────────┐
-│                                                                                            │
-│                   ███████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗ █████╗                    │
-│                   ██╔════╝██╔═══██╗██║   ██║████╗ ████║╚██╗ ██╔╝██╔══██╗                   │
-│                   ███████╗██║   ██║██║   ██║██╔████╔██║ ╚████╔╝ ███████║                   │
-│                   ╚════██║██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║                   │
-│                   ███████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ██║  ██║                   │
-│                   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝                   │
-│                                                                                            │
-│                         full-stack dev · kolkata, in · ships fast                          │
-│                                                                                            │
-├─ tmux ─────────────────────────────────────────────────────────────────────────────────────┤
-│ [soumya] 0:whoami* 1:stats 2:code                                  kolkata, in · UTC+05:30 │
-└────────────────────────────────────────────────────────────────────────────────────────────┘
+┌─ soumya@github: ~ ─────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                            │
+│                           ███████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗ █████╗                            │
+│                           ██╔════╝██╔═══██╗██║   ██║████╗ ████║╚██╗ ██╔╝██╔══██╗                           │
+│                           ███████╗██║   ██║██║   ██║██╔████╔██║ ╚████╔╝ ███████║                           │
+│                           ╚════██║██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║                           │
+│                           ███████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ██║  ██║                           │
+│                           ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝                           │
+│                                                                                                            │
+│                                 full-stack dev · kolkata, in · ships fast                                  │
+│                                                                                                            │
+├─ tmux ─────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ [soumya] 0:whoami* 1:stats 2:code                                                  kolkata, in · UTC+05:30 │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
@@ -23,28 +25,22 @@
   <a href="https://github.com/SoumyaEXE?tab=repositories"><kbd>&nbsp;repositories&nbsp;</kbd></a>
 </p>
 
-```console
-soumya@github:~$ paste <(whoami --verbose) <(cat contact.txt)
+```
+── 0:whoami ── soumya@github:~$ paste <(whoami --verbose) <(cat contact.txt) ─────────────────────────────────
+┌─ whoami ───────────────────────────────────────────┐  ┌─ contact.txt ──────────────────────────────────────┐
+│ role ......  full-stack, frontend-heavy            │  │ portfolio .  isoumya.xyz                           │
+│ stack .....  react · typescript · tailwind         │  │ writing ...  dev.to/SoumyadeepDey                  │
+│ runtime ...  node · python · azure                 │  │ github ....  github.com/SoumyaEXE                  │
+│ editor ....  cursor + claude code, always on       │  │ based in ..  kolkata, in                           │
+│ fuel ......  chai and a deadline i already         │  ├─ now ──────────────────────────────────────────────┤
+│              blew past                             │  │ studying ..  BCA, year 1                           │
+│ method ....  ship it, read the docs when it burns  │  │ currently .  turning "that should be easy" into a  │
+│ debugging .  console.log until enlightenment       │  │              three day forensic investigation      │
+└────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 
 ```
-┌─ whoami ───────────────────────────────────┐  ┌─ contact.txt ──────────────────────────────┐
-│ role ......  full-stack, frontend-heavy    │  │ portfolio .  isoumya.xyz                   │
-│ stack .....  react · typescript · tailwind │  │ writing ...  dev.to/SoumyadeepDey          │
-│ runtime ...  node · python · azure         │  │ github ....  github.com/SoumyaEXE          │
-│ editor ....  cursor + claude code,         │  │ based in ..  kolkata, in                   │
-│              always on                     │  ├─ now ──────────────────────────────────────┤
-│ fuel ......  chai and a deadline i already │  │ studying ..  BCA, year 1                   │
-│              blew past                     │  │ currently .  turning "that should be easy" │
-│ method ....  ship it, read the docs when   │  │              into a three day forensic     │
-│              it burns                      │  │              investigation                 │
-│ debugging .  console.log until             │  ├─ links ────────────────────────────────────┤
-│              enlightenment                 │  │ clickable ones live in the key row above   │
-└────────────────────────────────────────────┘  └────────────────────────────────────────────┘
-```
-
-```console
-soumya@github:~$ ./stats --refresh --repos
+── 1:stats ── soumya@github:~$ ./stats --refresh --repos ─────────────────────────────────────────────────────
 ```
 
 <!--START:top-->
@@ -63,8 +59,8 @@ soumya@github:~$ ./stats --refresh --repos
 ```
 <!--END:top-->
 
-```console
-soumya@github:~$ ./stats --commit-clock --languages
+```
+── 2:code ── soumya@github:~$ ./stats --commit-clock --languages ─────────────────────────────────────────────
 ```
 
 <!--START:code-->
@@ -89,6 +85,8 @@ soumya@github:~$ ./stats --commit-clock --languages
 ```
 <!--END:code-->
 
-```console
-soumya@github:~$ exit
 ```
+── soumya@github:~$ exit ─────────────────────────────────────────────────────────────────────────────────────
+```
+
+</div>
