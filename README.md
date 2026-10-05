@@ -26,7 +26,6 @@
 </p>
 
 ```
-── 0:whoami ── soumya@github:~$ paste <(whoami --verbose) <(cat contact.txt) ─────────────────────────────────
 ┌─ whoami ───────────────────────────────────────────┐  ┌─ contact.txt ──────────────────────────────────────┐
 │ role ......  full-stack, frontend-heavy            │  │ portfolio .  isoumya.xyz                           │
 │ stack .....  react · typescript · tailwind         │  │ writing ...  dev.to/SoumyadeepDey                  │
@@ -37,10 +36,6 @@
 │ method ....  ship it, read the docs when it burns  │  │ currently .  turning "that should be easy" into a  │
 │ debugging .  console.log until enlightenment       │  │              three day forensic investigation      │
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
-```
-
-```
-── 1:stats ── soumya@github:~$ ./stats --refresh --repos ─────────────────────────────────────────────────────
 ```
 
 <!--START:top-->
@@ -58,10 +53,6 @@
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:top-->
-
-```
-── 2:code ── soumya@github:~$ ./stats --commit-clock --languages ─────────────────────────────────────────────
-```
 
 <!--START:code-->
 ```
@@ -84,9 +75,5 @@
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:code-->
-
-```
-── soumya@github:~$ exit ─────────────────────────────────────────────────────────────────────────────────────
-```
 
 </div>
