@@ -1,78 +1,78 @@
 ```
-███████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗ █████╗
-██╔════╝██╔═══██╗██║   ██║████╗ ████║╚██╗ ██╔╝██╔══██╗
-███████╗██║   ██║██║   ██║██╔████╔██║ ╚████╔╝ ███████║
-╚════██║██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║
-███████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
-        full-stack dev · kolkata, in · ships fast
+┌─ soumya@github: ~ ─────────────────────────────────────────────────────────────────────────┐
+│                                                                                            │
+│                   ███████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗ █████╗                    │
+│                   ██╔════╝██╔═══██╗██║   ██║████╗ ████║╚██╗ ██╔╝██╔══██╗                   │
+│                   ███████╗██║   ██║██║   ██║██╔████╔██║ ╚████╔╝ ███████║                   │
+│                   ╚════██║██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║                   │
+│                   ███████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ██║  ██║                   │
+│                   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝                   │
+│                                                                                            │
+│                         full-stack dev · kolkata, in · ships fast                          │
+│                                                                                            │
+├─ tmux ─────────────────────────────────────────────────────────────────────────────────────┤
+│ [soumya] 0:whoami* 1:stats 2:code 3:heat                           kolkata, in · UTC+05:30 │
+└────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <a href="https://isoumya.xyz"><kbd>&nbsp;portfolio&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://dev.to/SoumyadeepDey"><kbd>&nbsp;writing&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://github.com/SoumyaEXE?tab=repositories"><kbd>&nbsp;repositories&nbsp;</kbd></a>
+</p>
+
+```console
+soumya@github:~$ paste <(whoami --verbose) <(cat contact.txt)
+```
+
+```
+┌─ whoami ───────────────────────────────────┐  ┌─ contact.txt ──────────────────────────────┐
+│ role ......  full-stack, frontend-heavy    │  │ portfolio .  isoumya.xyz                   │
+│ stack .....  react · typescript · tailwind │  │ writing ...  dev.to/SoumyadeepDey          │
+│ runtime ...  node · python · azure         │  │ github ....  github.com/SoumyaEXE          │
+│ editor ....  cursor + claude code,         │  │ based in ..  kolkata, in                   │
+│              always on                     │  ├─ now ──────────────────────────────────────┤
+│ fuel ......  chai and a deadline i already │  │ studying ..  BCA, year 1                   │
+│              blew past                     │  │ currently .  turning "that should be easy" │
+│ method ....  ship it, read the docs when   │  │              into a three day forensic     │
+│              it burns                      │  │              investigation                 │
+│ debugging .  console.log until             │  ├─ links ────────────────────────────────────┤
+│              enlightenment                 │  │ clickable ones live in the key row above   │
+└────────────────────────────────────────────┘  └────────────────────────────────────────────┘
 ```
 
 ```console
-soumya@github:~$ whoami --verbose
-
-┌─ whoami ────────────────────────────────────────────────┐
-│ role ......  full-stack, frontend-heavy                 │
-│ stack .....  react · typescript · tailwind              │
-│ runtime ...  node · python · azure                      │
-│ editor ....  cursor + claude code, always on            │
-│ studying ..  BCA, year 1                                │
-│ fuel ......  chai and a deadline i already blew past    │
-│ method ....  ship it, read the docs when it burns       │
-│ debugging .  console.log until enlightenment            │
-│ currently .  turning "that should be easy" into a       │
-│              three day forensic investigation           │
-└─────────────────────────────────────────────────────────┘
-
-soumya@github:~$ cat contact.txt
-
-  portfolio ..  https://isoumya.xyz
-  writing ....  https://dev.to/SoumyadeepDey
-
-soumya@github:~$ ./stats --refresh
+soumya@github:~$ ./stats --refresh --repos
 ```
 
-<!--START:stats-->
+<!--START:top-->
 ```
-  waiting for the first cron run...
+pending first run
 ```
-<!--END:stats-->
+<!--END:top-->
 
 ```console
-soumya@github:~$ ./stats --commit-clock
+soumya@github:~$ ./stats --commit-clock --languages
 ```
 
-<!--START:clock-->
+<!--START:code-->
 ```
-  waiting for the first cron run...
+pending first run
 ```
-<!--END:clock-->
-
-```console
-soumya@github:~$ ./stats --languages
-```
-
-<!--START:langs-->
-```
-  waiting for the first cron run...
-```
-<!--END:langs-->
+<!--END:code-->
 
 ```console
-soumya@github:~$ ./stats --repos
+soumya@github:~$ ./stats --heatmap
 ```
 
-<!--START:repos-->
+<!--START:heat-->
 ```
-  waiting for the first cron run...
+pending first run
 ```
-<!--END:repos-->
+<!--END:heat-->
 
 ```console
 soumya@github:~$ exit
-```
-
-<!--START:footer-->
-```
-  last self-update: pending
 ```
