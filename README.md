@@ -41,15 +41,15 @@
 <!--START:top-->
 ```
 ┌─ stats ────────────────────────────────────────────┐  ┌─ where the commits went ───────────────────────────┐
-│ commits (1y)       2.1k │ merged PRs            30 │  │ SoumyaEXE            ╢██████████████████████   131 │
+│ commits (1y)       2.2k │ merged PRs            30 │  │ SoumyaEXE            ╢██████████████████████   131 │
 │ contributions      2.3k │ issues                26 │  │ TellTail             ╢█████████████─────────    79 │
 │ stars earned        111 │ forks                 24 │  │ Atlas-Forensic-Vault ╢████████──────────────    50 │
 │ repos                17 │ code reviews           3 │  │ 3d-Solar-System-Thre ╢████████──────────────    50 │
 │ followers            83 │ following              8 │  │ GLASSPOCKET          ╢███████───────────────    42 │
-│ current streak       0d │ longest streak       23d │  │ CodePad              ╢██████────────────────    37 │
+│ current streak       1d │ longest streak       23d │  │ CodePad              ╢██████────────────────    37 │
 │                                                    │  │                      ╚══════════════════════       │
 ├─ meta ─────────────────────────────────────────────┤  ├─ verdict ──────────────────────────────────────────┤
-│ account age       1786d │ joined          nov 2021 │  │ 17 repos touched · 547 commits by me               │
+│ account age       1787d │ joined          nov 2021 │  │ 17 repos touched · 547 commits by me               │
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:top-->
