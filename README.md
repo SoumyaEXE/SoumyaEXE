@@ -45,11 +45,11 @@
 │ contributions      2.5k │ issues                26 │  │ TellTail             ╢█████████████─────────    79 │
 │ stars earned        112 │ forks                 26 │  │ Atlas-Forensic-Vault ╢████████──────────────    50 │
 │ repos                17 │ code reviews           3 │  │ 3d-Solar-System-Thre ╢████████──────────────    50 │
-│ followers            83 │ following              8 │  │ GLASSPOCKET          ╢███████───────────────    42 │
+│ followers            82 │ following              8 │  │ GLASSPOCKET          ╢███████───────────────    42 │
 │ current streak       7d │ longest streak       23d │  │ CodePad              ╢██████────────────────    37 │
 │                                                    │  │                      ╚══════════════════════       │
 ├─ meta ─────────────────────────────────────────────┤  ├─ verdict ──────────────────────────────────────────┤
-│ account age       1795d │ joined          nov 2021 │  │ 17 repos touched · 548 commits by me               │
+│ account age       1796d │ joined          nov 2021 │  │ 17 repos touched · 548 commits by me               │
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:top-->
