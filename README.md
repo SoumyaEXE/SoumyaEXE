@@ -46,10 +46,10 @@
 │ stars earned        114 │ forks                 26 │  │ leash                ╢████████████──────────    74 │
 │ repos                18 │ code reviews           3 │  │ Atlas-Forensic-Vault ╢████████──────────────    50 │
 │ followers            82 │ following              8 │  │ 3d-Solar-System-Thre ╢████████──────────────    50 │
-│ current streak       2d │ longest streak       23d │  │ GLASSPOCKET          ╢███████───────────────    42 │
+│ current streak       0d │ longest streak       23d │  │ GLASSPOCKET          ╢███████───────────────    42 │
 │                                                    │  │                      ╚══════════════════════       │
 ├─ meta ─────────────────────────────────────────────┤  ├─ verdict ──────────────────────────────────────────┤
-│ account age       1810d │ joined          nov 2021 │  │ 18 repos touched · 622 commits by me               │
+│ account age       1811d │ joined          nov 2021 │  │ 18 repos touched · 622 commits by me               │
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:top-->
