@@ -49,7 +49,7 @@
 │ current streak       1d │ longest streak       23d │  │ GLASSPOCKET          ╢███████───────────────    42 │
 │                                                    │  │                      ╚══════════════════════       │
 ├─ meta ─────────────────────────────────────────────┤  ├─ verdict ──────────────────────────────────────────┤
-│ account age       1819d │ joined          nov 2021 │  │ 19 repos touched · 626 commits by me               │
+│ account age       1820d │ joined          nov 2021 │  │ 19 repos touched · 626 commits by me               │
 └────────────────────────────────────────────────────┘  └────────────────────────────────────────────────────┘
 ```
 <!--END:top-->
